@@ -15,8 +15,8 @@
 <ul>
   <li>Meaning: An array of Linked Lists -> Adjacency List</li>
   <li>Size of array = Number of vertices</li>
-</ul>
-<h5>Using Adj List & Unordered Map:</h5>
+</ul> <hr>
+<h3>Implementation using Adj List & Unordered Map:</h3>
 <ol>
   <li>Graph is represented by showing each node and all links of that node.<br>
 <i>(Har node par jao, or btao ki kis kis node se connected hai, ye puri mapping ek graph ko represent kregi)</i></li>
