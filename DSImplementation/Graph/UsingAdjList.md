@@ -24,4 +24,5 @@
     first (int) -> Value of node, <br>
     second (list) -> list of all the node with which first node is linked</li>
 </ol>
-
+<code>
+</code>
