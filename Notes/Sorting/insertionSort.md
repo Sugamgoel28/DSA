@@ -1,7 +1,7 @@
 <h1 align="center">INSERTION SORT</h1>
 <h4>ALGORITHM</h4>
 <ul>
-  <li>The intuition behind this algorithm is to iterate the array N-1 times, and in every iteration place the minimum element in the right place.</li>
+  <li>The intuition behind this algorithm is to iterate the array like an expanding window. In every iteration we'll keep inserting the array elements at right position.</li>
   <li>Step 1: Consider the first element as an array. Keep increasing the size of the array by one in every iteration.</li>
   <li>Step 2: Iterate another loop for the rest of the elements, and figure out if any element is smaller.</li>
   <li>Step 3: Every iteration should have a sorted array.</li>
