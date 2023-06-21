@@ -7,27 +7,23 @@
   <li>Step 3: Swap the elements</li>
 </ul>
 
-<img src="https://i.ibb.co/j6FxCC5/selection-sort.jpg" alt="selection-sort" border="0"></a>
+<img src="https://www.geeksforgeeks.org/insertion-sort/" alt="insertion-sort" border="0"></a>
 <br>
 &#169; codingninjas
-<h4>SELECTION SORT - CODE</h4>
+<h4>INSERTION SORT - CODE</h4>
 
 ```cpp
 
-void selectionSort(vector<int>& arr, int n)
-{   
+#include <bits/stdc++.h> 
+void insertionSort(int n, vector<int> &arr){
     // Write your code here.
-
-    for(int i = 0; i < n-1; i++){
-        int minIndex = i;
-        for(int j = i+1; j < n; j++){
-            if(arr[j] < arr[minIndex]){
-                minIndex = j;
-            }
+    for(int i = 0; i < n; i++){
+        int j = i;
+        while(j>0 && arr[j-1] > arr[j]){
+            swap(arr[j-1],arr[j]);
+            j--;
         }
-        swap(arr[i],arr[minIndex]);
     }
-
 }
 
 ```
