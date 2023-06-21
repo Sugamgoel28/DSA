@@ -5,9 +5,7 @@
   <li>Step 1: Consider the first element of the array as a minimum.</li>
   <li>Step 2: Iterate another loop for the rest of the elements, and figure out if any element is smaller.</li>
   <li>Step 3: Swap the elements</li>
-</ul>
-
-<img src="DSA/Images/image.png" alt="insertion-sort" border="0"></a>
+<img src="https://i.ibb.co/X3Jz7Cn/image.png" alt="image" border="0"><br />
 <br>
 &#169; codingninjas
 <h4>INSERTION SORT - CODE</h4>
