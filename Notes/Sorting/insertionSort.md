@@ -7,7 +7,7 @@
   <li>Step 3: Swap the elements</li>
 </ul>
 
-<img src="https://www.geeksforgeeks.org/insertion-sort/" alt="insertion-sort" border="0"></a>
+<img src="DSA/Images/image.png" alt="insertion-sort" border="0"></a>
 <br>
 &#169; codingninjas
 <h4>INSERTION SORT - CODE</h4>
