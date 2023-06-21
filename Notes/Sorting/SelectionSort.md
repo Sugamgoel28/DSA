@@ -6,8 +6,10 @@
   <li>Step 2: Iterate another loop for the rest of the elements, and figure out if any element is smaller.</li>
   <li>Step 3: Swap the elements</li>
 </ul>
-<img src="https://i.ibb.co/j6FxCC5/selection-sort.jpg" alt="selection-sort" border="0"></a>
 
+<img src="https://i.ibb.co/j6FxCC5/selection-sort.jpg" alt="selection-sort" border="0"></a>
+<br>
+&#169; codingninjas
 <h4>SELECTION SORT - CODE</h4>
 
 ```cpp
@@ -29,3 +31,11 @@ void selectionSort(vector<int>& arr, int n)
 }
 
 ```
+
+<h4>COMPLEXITIES</h4>
+<ul>
+  <li>Av. Time Complexity - O(n<sup>2</sup>)</li>
+  <li>Space Complexity - O(1)</li>
+  <li>Best Case Time Complexity - O(n<sup>2</sup>)</li>
+  <li>Worst Case Time Complexity - O(n<sup>2</sup>)</li>
+</ul>
