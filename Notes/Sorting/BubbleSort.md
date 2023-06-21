@@ -7,6 +7,8 @@
   <li>Step 3: Keep comparing in a similar fashion for further iterations.</li>
 </ul>
 
+<img align="center" src="https://i.ibb.co/bRdwskL/bubble-short.png" alt="Bubble Sort Visualize">
+
 <h4>BUBBLE SORT - CODE</h4>
 
 ```cpp
