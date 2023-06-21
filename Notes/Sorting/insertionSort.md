@@ -2,12 +2,11 @@
 <h4>ALGORITHM</h4>
 <ul>
   <li>The intuition behind this algorithm is to iterate the array N-1 times, and in every iteration place the minimum element in the right place.</li>
-  <li>Step 1: Consider the first element of the array as a minimum.</li>
+  <li>Step 1: Consider the first element as an array. Keep increasing the size of the array by one in every iteration.</li>
   <li>Step 2: Iterate another loop for the rest of the elements, and figure out if any element is smaller.</li>
-  <li>Step 3: Swap the elements</li>
-<img src="https://i.ibb.co/X3Jz7Cn/image.png" alt="image" border="0"><br />
+  <li>Step 3: Every iteration should have a sorted array.</li>
+<img src="https://i.ibb.co/X3Jz7Cn/image.png" alt="image" border="0">
 <br>
-&#169; codingninjas
 <h4>INSERTION SORT - CODE</h4>
 
 ```cpp
