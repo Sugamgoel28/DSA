@@ -6,7 +6,8 @@
 
 <h3> <u>DAY 4: Arrays Part-IV</u></h3>
 
-<table>
+
+<table align="center">
   <th>S. No.</th>
   <th>Problem Name</th>
   <th>Platform Link</th>
