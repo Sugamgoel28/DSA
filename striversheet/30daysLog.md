@@ -49,6 +49,49 @@
     <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">LeetCode</a></td>
     <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
   </tr>
+    <th colspan = "4">DAY-2: Arrays Part-II</th>
+  <tr>
+    <td>S. No.</td>
+  <td>Problem Name</td>
+  <td>Platform Link</td>
+  <td>Notes</td>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td>Two Sum</td>
+    <td><a href="https://leetcode.com/problems/two-sum/">LeetCode</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>
+    <tr>
+    <td>2.</td>
+    <td>4 Sum</td>
+    <td><a href="https://leetcode.com/problems/4sum/">LeetCode</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>
+  <tr>
+    <td>3.</td>
+    <td>Longest Consecutive Sequence</td>
+    <td><a href="https://leetcode.com/problems/longest-consecutive-sequence/">LeetCode</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>  
+  <tr>
+    <td>4.</td>
+    <td>Largest-subarray-with-0-sum</td>
+    <td><a href="https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1">GFG</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>  
+  <tr>
+    <td>5.</td>
+    <td>Count number of subarrays with given xor K</td>
+    <td><a href="https://www.codingninjas.com/codestudio/problems/1115652?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website">Coding Ninjas</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>  
+  <tr>
+    <td>6.</td>
+    <td>Longest-substring-without-repeating-characters</td>
+    <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">LeetCode</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>
 </table>
 <hr>
 <!--DAY-2-->
