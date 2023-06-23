@@ -36,3 +36,25 @@ Algorithm:
 - If yes then return the indices.
 - If No then push the current element in Map. 
 - If loop gets completed and no such pair is found, then return empty vector.
+
+Av. Time Complexity: O(N logN), Best Case Time Complexity: O(N), Worst Case Time Complexity: O(N<sup>2</sup>), Space Complexity: O(N)
+```cpp
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        int n = nums.size();
+        unordered_map<int,int> mapp;
+
+        for(int i = 0; i < n; i++){
+            int current = nums[i];
+            int complement = target - current;
+            
+            if(mapp.find(complement) != mapp.end()){
+                return {mapp[complement],i};
+            }
+            mapp[current] = i;
+        }
+        return {};
+    }
+};
+```
