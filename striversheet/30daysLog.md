@@ -91,7 +91,7 @@
     <td>1.</td>
     <td>Two Sum</td>
     <td><a href="https://leetcode.com/problems/two-sum/">LeetCode</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+    <td><a href="striversheet/Solutions/Week-1/Day-4/2Sum.md">Link</a></td>
   </tr>
     <tr>
     <td>2.</td>
