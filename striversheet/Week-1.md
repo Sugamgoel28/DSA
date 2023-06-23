@@ -42,7 +42,7 @@
     <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">LeetCode</a></td>
   </tr>
 </table>
-
+<hr>
 <!--DAY-2-->
 
 <h3> <u>DAY 2: Arrays Part-II</u></h3>
@@ -82,6 +82,7 @@
     <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">LeetCode</a></td>
   </tr>
 </table>
+<hr>
 
 <!--DAY-3-->
 <h3> <u>DAY 3: Arrays Part-III</u></h3>
@@ -121,6 +122,7 @@
     <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">LeetCode</a></td>
   </tr>
 </table>
+<hr>
 
 <!--Day-4-->
 <h3> <u>DAY 4: Arrays Part-IV</u></h3>
@@ -160,6 +162,8 @@
     <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">LeetCode</a></td>
   </tr>
 </table>
+<hr>
+
 <!--Day-5-->
 <h3> <u>DAY 5: Linked List</u></h3>
 
@@ -199,6 +203,8 @@
     <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">LeetCode</a></td>
   </tr>
 </table>
+<hr>
+
 <!--DAY-6-->
 <h3> <u>DAY 6: Linked List Part-2</u></h3>
 
@@ -237,6 +243,7 @@
     <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">LeetCode</a></td>
   </tr>
 </table>
+<hr>
 
 <!--DAY-7-->
 <h3> <u>DAY 7: Linked List and Arrays</u></h3>
@@ -276,5 +283,6 @@
     <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">LeetCode</a></td>
   </tr>
 </table>
+<hr>
 
 
