@@ -5,13 +5,14 @@
 <hr>
 
 <!--Day1-->
-<h3> <u>DAY 1: Arrays </u></h3>
-
 <table align="center">
-  <th>S. No.</th>
-  <th>Problem Name</th>
-  <th>Platform Link</th>
-  <th>Notes</th>
+  <th colspan = "4">DAY 1: Arrays</th>
+  <tr>
+    <td>S. No.</td>
+  <td>Problem Name</td>
+  <td>Platform Link</td>
+  <td>Notes</td>
+  </tr>
   <tr>
     <td>1.</td>
     <td>Set Matrix Zeros</td>
