@@ -49,7 +49,265 @@
     <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">LeetCode</a></td>
     <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
   </tr>
-    <th colspan = "4">DAY-2: Arrays Part-II</th>
+  <th colspan = "4">DAY-2: Arrays Part-II</th>
+  <tr>
+    <td>S. No.</td>
+  <td>Problem Name</td>
+  <td>Platform Link</td>
+  <td>Notes</td>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td>Two Sum</td>
+    <td><a href="https://leetcode.com/problems/two-sum/">LeetCode</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>
+    <tr>
+    <td>2.</td>
+    <td>4 Sum</td>
+    <td><a href="https://leetcode.com/problems/4sum/">LeetCode</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>
+  <tr>
+    <td>3.</td>
+    <td>Longest Consecutive Sequence</td>
+    <td><a href="https://leetcode.com/problems/longest-consecutive-sequence/">LeetCode</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>  
+  <tr>
+    <td>4.</td>
+    <td>Largest-subarray-with-0-sum</td>
+    <td><a href="https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1">GFG</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>  
+  <tr>
+    <td>5.</td>
+    <td>Count number of subarrays with given xor K</td>
+    <td><a href="https://www.codingninjas.com/codestudio/problems/1115652?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website">Coding Ninjas</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>  
+  <tr>
+    <td>6.</td>
+    <td>Longest-substring-without-repeating-characters</td>
+    <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">LeetCode</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>
+  <th colspan = "4">DAY-2: Arrays Part-II</th>
+  <tr>
+    <td>S. No.</td>
+  <td>Problem Name</td>
+  <td>Platform Link</td>
+  <td>Notes</td>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td>Two Sum</td>
+    <td><a href="https://leetcode.com/problems/two-sum/">LeetCode</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>
+    <tr>
+    <td>2.</td>
+    <td>4 Sum</td>
+    <td><a href="https://leetcode.com/problems/4sum/">LeetCode</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>
+  <tr>
+    <td>3.</td>
+    <td>Longest Consecutive Sequence</td>
+    <td><a href="https://leetcode.com/problems/longest-consecutive-sequence/">LeetCode</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>  
+  <tr>
+    <td>4.</td>
+    <td>Largest-subarray-with-0-sum</td>
+    <td><a href="https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1">GFG</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>  
+  <tr>
+    <td>5.</td>
+    <td>Count number of subarrays with given xor K</td>
+    <td><a href="https://www.codingninjas.com/codestudio/problems/1115652?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website">Coding Ninjas</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>  
+  <tr>
+    <td>6.</td>
+    <td>Longest-substring-without-repeating-characters</td>
+    <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">LeetCode</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>
+  <th colspan = "4">DAY-2: Arrays Part-II</th>
+  <tr>
+    <td>S. No.</td>
+  <td>Problem Name</td>
+  <td>Platform Link</td>
+  <td>Notes</td>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td>Two Sum</td>
+    <td><a href="https://leetcode.com/problems/two-sum/">LeetCode</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>
+    <tr>
+    <td>2.</td>
+    <td>4 Sum</td>
+    <td><a href="https://leetcode.com/problems/4sum/">LeetCode</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>
+  <tr>
+    <td>3.</td>
+    <td>Longest Consecutive Sequence</td>
+    <td><a href="https://leetcode.com/problems/longest-consecutive-sequence/">LeetCode</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>  
+  <tr>
+    <td>4.</td>
+    <td>Largest-subarray-with-0-sum</td>
+    <td><a href="https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1">GFG</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>  
+  <tr>
+    <td>5.</td>
+    <td>Count number of subarrays with given xor K</td>
+    <td><a href="https://www.codingninjas.com/codestudio/problems/1115652?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website">Coding Ninjas</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>  
+  <tr>
+    <td>6.</td>
+    <td>Longest-substring-without-repeating-characters</td>
+    <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">LeetCode</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>
+  <th colspan = "4">DAY-2: Arrays Part-II</th>
+  <tr>
+    <td>S. No.</td>
+  <td>Problem Name</td>
+  <td>Platform Link</td>
+  <td>Notes</td>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td>Two Sum</td>
+    <td><a href="https://leetcode.com/problems/two-sum/">LeetCode</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>
+    <tr>
+    <td>2.</td>
+    <td>4 Sum</td>
+    <td><a href="https://leetcode.com/problems/4sum/">LeetCode</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>
+  <tr>
+    <td>3.</td>
+    <td>Longest Consecutive Sequence</td>
+    <td><a href="https://leetcode.com/problems/longest-consecutive-sequence/">LeetCode</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>  
+  <tr>
+    <td>4.</td>
+    <td>Largest-subarray-with-0-sum</td>
+    <td><a href="https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1">GFG</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>  
+  <tr>
+    <td>5.</td>
+    <td>Count number of subarrays with given xor K</td>
+    <td><a href="https://www.codingninjas.com/codestudio/problems/1115652?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website">Coding Ninjas</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>  
+  <tr>
+    <td>6.</td>
+    <td>Longest-substring-without-repeating-characters</td>
+    <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">LeetCode</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>
+  <th colspan = "4">DAY-2: Arrays Part-II</th>
+  <tr>
+    <td>S. No.</td>
+  <td>Problem Name</td>
+  <td>Platform Link</td>
+  <td>Notes</td>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td>Two Sum</td>
+    <td><a href="https://leetcode.com/problems/two-sum/">LeetCode</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>
+    <tr>
+    <td>2.</td>
+    <td>4 Sum</td>
+    <td><a href="https://leetcode.com/problems/4sum/">LeetCode</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>
+  <tr>
+    <td>3.</td>
+    <td>Longest Consecutive Sequence</td>
+    <td><a href="https://leetcode.com/problems/longest-consecutive-sequence/">LeetCode</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>  
+  <tr>
+    <td>4.</td>
+    <td>Largest-subarray-with-0-sum</td>
+    <td><a href="https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1">GFG</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>  
+  <tr>
+    <td>5.</td>
+    <td>Count number of subarrays with given xor K</td>
+    <td><a href="https://www.codingninjas.com/codestudio/problems/1115652?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website">Coding Ninjas</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>  
+  <tr>
+    <td>6.</td>
+    <td>Longest-substring-without-repeating-characters</td>
+    <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">LeetCode</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>
+  <th colspan = "4">DAY-2: Arrays Part-II</th>
+  <tr>
+    <td>S. No.</td>
+  <td>Problem Name</td>
+  <td>Platform Link</td>
+  <td>Notes</td>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td>Two Sum</td>
+    <td><a href="https://leetcode.com/problems/two-sum/">LeetCode</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>
+    <tr>
+    <td>2.</td>
+    <td>4 Sum</td>
+    <td><a href="https://leetcode.com/problems/4sum/">LeetCode</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>
+  <tr>
+    <td>3.</td>
+    <td>Longest Consecutive Sequence</td>
+    <td><a href="https://leetcode.com/problems/longest-consecutive-sequence/">LeetCode</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>  
+  <tr>
+    <td>4.</td>
+    <td>Largest-subarray-with-0-sum</td>
+    <td><a href="https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1">GFG</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>  
+  <tr>
+    <td>5.</td>
+    <td>Count number of subarrays with given xor K</td>
+    <td><a href="https://www.codingninjas.com/codestudio/problems/1115652?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website">Coding Ninjas</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>  
+  <tr>
+    <td>6.</td>
+    <td>Longest-substring-without-repeating-characters</td>
+    <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">LeetCode</a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
+  </tr>
+  <th colspan = "4">DAY-2: Arrays Part-II</th>
   <tr>
     <td>S. No.</td>
   <td>Problem Name</td>
@@ -94,288 +352,3 @@
   </tr>
 </table>
 <hr>
-<!--DAY-2-->
-
-<h3> <u>DAY 2: Arrays Part-II</u></h3>
-
-<table align="center">
-  <th>S. No.</th>
-  <th>Problem Name</th>
-  <th>Platform Link</th>
-  <th>Notes</th>
-  <tr>
-    <td>1.</td>
-    <td>Two Sum</td>
-    <td><a href="https://leetcode.com/problems/two-sum/">LeetCode</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>
-    <tr>
-    <td>2.</td>
-    <td>4 Sum</td>
-    <td><a href="https://leetcode.com/problems/4sum/">LeetCode</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>
-  <tr>
-    <td>3.</td>
-    <td>Longest Consecutive Sequence</td>
-    <td><a href="https://leetcode.com/problems/longest-consecutive-sequence/">LeetCode</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>  
-  <tr>
-    <td>4.</td>
-    <td>Largest-subarray-with-0-sum</td>
-    <td><a href="https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1">GFG</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>  
-  <tr>
-    <td>5.</td>
-    <td>Count number of subarrays with given xor K</td>
-    <td><a href="https://www.codingninjas.com/codestudio/problems/1115652?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website">Coding Ninjas</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>  
-  <tr>
-    <td>6.</td>
-    <td>Longest-substring-without-repeating-characters</td>
-    <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">LeetCode</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>
-</table>
-<hr>
-
-<!--DAY-3-->
-<h3> <u>DAY 3: Arrays Part-III</u></h3>
-
-<table align="center">
-  <th>S. No.</th>
-  <th>Problem Name</th>
-  <th>Platform Link</th>
-  <th>Notes</th>
-  <tr>
-    <td>1.</td>
-    <td>Two Sum</td>
-    <td><a href="https://leetcode.com/problems/two-sum/">LeetCode</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>
-    <tr>
-    <td>2.</td>
-    <td>4 Sum</td>
-    <td><a href="https://leetcode.com/problems/4sum/">LeetCode</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>
-  <tr>
-    <td>3.</td>
-    <td>Longest Consecutive Sequence</td>
-    <td><a href="https://leetcode.com/problems/longest-consecutive-sequence/">LeetCode</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>  
-  <tr>
-    <td>4.</td>
-    <td>Largest-subarray-with-0-sum</td>
-    <td><a href="https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1">GFG</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>  
-  <tr>
-    <td>5.</td>
-    <td>Count number of subarrays with given xor K</td>
-    <td><a href="https://www.codingninjas.com/codestudio/problems/1115652?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website">Coding Ninjas</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>  
-  <tr>
-    <td>6.</td>
-    <td>Longest-substring-without-repeating-characters</td>
-    <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">LeetCode</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>
-</table>
-<hr>
-
-<!--Day-4-->
-<h3> <u>DAY 4: Arrays Part-IV</u></h3>
-
-<table align="center">
-  <th>S. No.</th>
-  <th>Problem Name</th>
-  <th>Platform Link</th>
-  <th>Notes</th>
-  <tr>
-    <td>1.</td>
-    <td>Two Sum</td>
-    <td><a href="https://leetcode.com/problems/two-sum/">LeetCode</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>
-    <tr>
-    <td>2.</td>
-    <td>4 Sum</td>
-    <td><a href="https://leetcode.com/problems/4sum/">LeetCode</a></td>
-      <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>
-  <tr>
-    <td>3.</td>
-    <td>Longest Consecutive Sequence</td>
-    <td><a href="https://leetcode.com/problems/longest-consecutive-sequence/">LeetCode</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>  
-  <tr>
-    <td>4.</td>
-    <td>Largest-subarray-with-0-sum</td>
-    <td><a href="https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1">GFG</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>  
-  <tr>
-    <td>5.</td>
-    <td>Count number of subarrays with given xor K</td>
-    <td><a href="https://www.codingninjas.com/codestudio/problems/1115652?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website">Coding Ninjas</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>  
-  <tr>
-    <td>6.</td>
-    <td>Longest-substring-without-repeating-characters</td>
-    <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">LeetCode</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>
-</table>
-<hr>
-
-<!--Day-5-->
-<h3> <u>DAY 5: Linked List</u></h3>
-
-
-<table align="center">
-  <th>S. No.</th>
-  <th>Problem Name</th>
-  <th>Platform Link</th>
-  <th>Notes</th>
-  <tr>
-    <td>1.</td>
-    <td>Two Sum</td>
-    <td><a href="https://leetcode.com/problems/two-sum/">LeetCode</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>
-    <tr>
-    <td>2.</td>
-    <td>4 Sum</td>
-    <td><a href="https://leetcode.com/problems/4sum/">LeetCode</a></td>
-      <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>
-  <tr>
-    <td>3.</td>
-    <td>Longest Consecutive Sequence</td>
-    <td><a href="https://leetcode.com/problems/longest-consecutive-sequence/">LeetCode</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>  
-  <tr>
-    <td>4.</td>
-    <td>Largest-subarray-with-0-sum</td>
-    <td><a href="https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1">GFG</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>  
-  <tr>
-    <td>5.</td>
-    <td>Count number of subarrays with given xor K</td>
-    <td><a href="https://www.codingninjas.com/codestudio/problems/1115652?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website">Coding Ninjas</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>  
-  <tr>
-    <td>6.</td>
-    <td>Longest-substring-without-repeating-characters</td>
-    <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">LeetCode</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>
-</table>
-<hr>
-
-<!--DAY-6-->
-<h3> <u>DAY 6: Linked List Part-2</u></h3>
-
-<table align="center">
-  <th>S. No.</th>
-  <th>Problem Name</th>
-  <th>Platform Link</th>
-  <th>Notes</th>
-  <tr>
-    <td>1.</td>
-    <td>Two Sum</td>
-    <td><a href="https://leetcode.com/problems/two-sum/">LeetCode</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>
-    <tr>
-    <td>2.</td>
-    <td>4 Sum</td>
-    <td><a href="https://leetcode.com/problems/4sum/">LeetCode</a></td>
-      <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>
-  <tr>
-    <td>3.</td>
-    <td>Longest Consecutive Sequence</td>
-    <td><a href="https://leetcode.com/problems/longest-consecutive-sequence/">LeetCode</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>  
-  <tr>
-    <td>4.</td>
-    <td>Largest-subarray-with-0-sum</td>
-    <td><a href="https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1">GFG</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>  
-  <tr>
-    <td>5.</td>
-    <td>Count number of subarrays with given xor K</td>
-    <td><a href="https://www.codingninjas.com/codestudio/problems/1115652?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website">Coding Ninjas</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>  
-  <tr>
-    <td>6.</td>
-    <td>Longest-substring-without-repeating-characters</td>
-    <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">LeetCode</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>
-</table>
-<hr>
-
-<!--DAY-7-->
-<h3> <u>DAY 7: Linked List and Arrays</u></h3>
-
-<table align="center">
-  <th>S. No.</th>
-  <th>Problem Name</th>
-  <th>Platform Link</th>
-  <th>Notes</th>
-  <tr>
-    <td>1.</td>
-    <td>Two Sum</td>
-    <td><a href="https://leetcode.com/problems/two-sum/">LeetCode</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>
-    <tr>
-    <td>2.</td>
-    <td>4 Sum</td>
-    <td><a href="https://leetcode.com/problems/4sum/">LeetCode</a></td>
-      <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>
-  <tr>
-    <td>3.</td>
-    <td>Longest Consecutive Sequence</td>
-    <td><a href="https://leetcode.com/problems/longest-consecutive-sequence/">LeetCode</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>  
-  <tr>
-    <td>4.</td>
-    <td>Largest-subarray-with-0-sum</td>
-    <td><a href="https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1">GFG</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>  
-  <tr>
-    <td>5.</td>
-    <td>Count number of subarrays with given xor K</td>
-    <td><a href="https://www.codingninjas.com/codestudio/problems/1115652?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website">Coding Ninjas</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>  
-  <tr>
-    <td>6.</td>
-    <td>Longest-substring-without-repeating-characters</td>
-    <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">LeetCode</a></td>
-    <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
-  </tr>
-</table>
-<hr>
-
-
