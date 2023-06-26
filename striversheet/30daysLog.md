@@ -200,37 +200,37 @@
   <th colspan = "4">DAY-6: Linked List Part-II</th>
   <tr>
     <td>1.</td>
-    <td>Two Sum</td>
+    <td>Find intersection point of Y LinkedList</td>
     <td><a href="https://leetcode.com/problems/two-sum/">LeetCode</a></td>
     <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
   </tr>
     <tr>
     <td>2.</td>
-    <td>4 Sum</td>
+    <td>Detect a cycle in Linked List</td>
     <td><a href="https://leetcode.com/problems/4sum/">LeetCode</a></td>
     <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
   </tr>
   <tr>
     <td>3.</td>
-    <td>Longest Consecutive Sequence</td>
+    <td>Reverse a LinkedList in groups of size k.</td>
     <td><a href="https://leetcode.com/problems/longest-consecutive-sequence/">LeetCode</a></td>
     <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
   </tr>  
   <tr>
     <td>4.</td>
-    <td>Largest-subarray-with-0-sum</td>
+    <td>Check if a LinkedList is palindrome or not…</td>
     <td><a href="https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1">GFG</a></td>
     <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
   </tr>  
   <tr>
     <td>5.</td>
-    <td>Count number of subarrays with given xor K</td>
+    <td>Find the starting point of the Loop of Lin…</td>
     <td><a href="https://www.codingninjas.com/codestudio/problems/1115652?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website">Coding Ninjas</a></td>
     <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
   </tr>  
   <tr>
     <td>6.</td>
-    <td>Longest-substring-without-repeating-characters</td>
+    <td>Flattening of a LinkedList</td>
     <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">LeetCode</a></td>
     <td><a href="https://leetcode.com/problems/two-sum/">Link</a></td>
   </tr>
